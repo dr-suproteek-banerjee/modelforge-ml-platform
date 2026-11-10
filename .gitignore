@@ -1,0 +1,16 @@
+.env
+*.db
+*.db-*
+__pycache__/
+.venv/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+storage/
+mlruns/
+node_modules/
+.next/
+next-env.d.ts
+*.tsbuildinfo
+playwright-report/
+test-results/
